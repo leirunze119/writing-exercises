@@ -1,0 +1,5 @@
+相互作用下的local与shuffle模型的下界。我们的下界在非相互作用的local和shuffle模型中成立，也就是所有的用户在一轮中同时发送各自的消息。尽管我们的下界看似可以扩展至序列相互作用的local差分隐私模型（每个用户只讲一次，但非同时），但如何将其扩展至完全相互作用的local差分隐私模型仍有待探究。
+DP-shuffle模型的情况则更加复杂。具体而言，我们尚不知晓shuffle中关于相互作用设置的正确处理方法，而这正是给出上界或下界的第一个步骤。我们注意到在某些定义下，就可实现的准确性与降低通信约束方面而言，该模型将具有堪比中心化模型的能力
+
+Lower Bounds against Interactive Local/Shuffle Model. Our lower bounds hold in the noninteractive local and shuffle DP models, where all users send their messages simultaneously in a single round. While it seems plausible that our lower bounds can be extended to the sequentially interactive local DP model (where each user speaks once but not simultaneously), it is unclear how to extend them to the fully interactive local DP model.
+The situation for DP-shuffle however is more complicated. Specifically, we are not aware of a formal treatment of an interactive setting for the shuffle model, which would be the first step in providing either upper or lower bounds. We remark that certain definitions could lead to the model being as powerful as the central model (in terms of achievable accuracy and putting aside communication constraints).
