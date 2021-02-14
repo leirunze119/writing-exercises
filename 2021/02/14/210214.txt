@@ -1,0 +1,3 @@
+我们用P = (R, S, A)表示由R、S和A组成的协议。Shuffle和local模型的主要区别是在本地随机发生器与分析者之间引入了打乱者。与local模型相同，shuffle模型中的分析者也是不可信的，因此分析者输入处（也就是打乱者的输出）的隐私必须得到保护。
+
+We will write P = (R, S, A) to denote the protocol whose components are given by R, S and A. The main distinction between the shuffle and local model is the introduction of the shuffler S between the local randomizer and the analyzer. As in the local model, the analyzer is untrusted in the shuffle model; hence privacy must be guaranteed with respect to the input to the analyzer, i.e., the output of the shuffler.
