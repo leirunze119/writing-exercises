@@ -1,0 +1,4 @@
+以上讨论着重强调没有必要为获得结果的明确版本而处理任意判别器。一个简单得多的伪随机性的概念（如t-wise独立性）完全有可能在这种设定下证明隐私。一个有前途的方向是使用Nisan的伪随机生成器，将空间有界的判别器应用于我们的设定。Indyk表明使用这种方法可以对自然的流估计器进行去随机化处理。我们还未发现包含与此处对算法的讨论的类似的结果。
+
+The above discussion highlights that one need not handle arbitrary distinguishers to get an explicit version of our result. It is entirely possible that a much simpler notion of pseudo-randomness, such as t-wise independence, suffices for proving privacy in this setting. One promising direction is to adapt Nisan’s pseudorandom generator for space-bounded distinguishers to our setting. Indyk showed that a natural class of streaming estimators can be derandomized using this approach; we are not aware of a similar result that encompasses the algorithms discussed here.
+
