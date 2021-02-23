@@ -1,0 +1,3 @@
+本文介绍了两种用于发布用户向量的局部差分隐私算法，以便有效地估计这些向量之间的Jaccard相似度。基本构成单元是众所周知的MinHash方法。为了实现隐私与效用的权衡，分别使用广义随机响应与Laplace机制两种方式扩展了MinHash的变体。理论分析提供了绝对误差界，并实验展示了合成数据与真实数据上的效用-隐私权衡。本文以对相关工作的批判性讨论作为结尾。
+
+This paper describes two locally-differential private algorithms for releasing user vectors such that the Jaccard similarity between these vectors can be efficiently estimated. The basic building block is the well-known MinHash method. To achieve a privacy-utility trade-off, MinHash is extended in two ways using variants of Generalized Randomized Response and the Laplace Mechanism. A theoretical analysis provides bounds on the absolute error and experiments show the utility-privacy trade-ff on synthetic and real-world data. The paper ends with a critical discussion of related work.
