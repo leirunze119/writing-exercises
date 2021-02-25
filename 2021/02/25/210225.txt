@@ -1,0 +1,3 @@
+如同Dwork等人在…中介绍的那样，差分隐私概念使用了一种精确的数学方法来定义，并使设计高效率的随机算法成为可能。对于不受信任的数据管理者，这一概念可以扩展到本地差分隐私，在这种情况下用户自己运行随机算法以确保数据隐私，然后再将其发送给不受信任的管理者。
+
+The concept of differential privacy as introduced by Dwork et al. in … defines privacy in a precise mathematical way that often allows the design of efficient randomized algorithms. In the case of an untrusted data curator, the concept can be extended to local differential privacy, where users themselves run randomized algorithms to make their data private before sending it to an untrusted curator.
