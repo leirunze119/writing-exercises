@@ -1,0 +1,3 @@
+一种随机机制基于随机响应的概念，另一种机制则采用拉普拉斯噪声的概念。我们提供了这些机制的估计误差的概率界，如定理…所示。…中提供了我们的设置和机制的运行示例。这些机制将在…的实际环境中进行评估。在那里，我们将看到如果用户向量包含的元素不太少，将能够用它们进行精确的相似度估计。
+
+One randomization mechanism is based on the concept of randomized response, the other mechanism uses the concept of Laplacian noise. We provide probabilistic bounds on the estimation error of these mechanisms as Theorem …. A running example of our setting and the mechanisms is provided in …. The mechanisms will be evaluated in a real-world setting in …. There we will see that they allow for precise similarity estimations if user vectors do not contain too few elements.
