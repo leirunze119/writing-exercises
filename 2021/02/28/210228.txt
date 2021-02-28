@@ -1,0 +1,3 @@
+差分隐私给出了隐私的一种精确数学定义。它表明对于两个近邻数据库，如果一定有足够好的概率使该算法产生相同的输出，则该随机算法是隐私的。 在这里，明确定义近邻是一个关键标准，我们将在下一节中介绍我们的概念。虽然差分隐私通常与受信任的数据管理器一起使用，但是本地差异隐私的概念描述了用户自己应用随机算法的设置。因此，管理器永远不会看到原始数据。
+
+Differential privacy conveys a precise mathematical definition of privacy. It says that a randomized algorithm is private if, for two neighboring databases, there must be a good enough probability that the algorithm produces the same output. Here, a clear definition of neighboring is a key criterion and we will introduce our notion in the next section. While differential privacy usually works with a trusted data curator, the notion of local differential privacy describes the setting in which the user applies the randomized algorithm themselves. Thus, the curator never sees the original data.
