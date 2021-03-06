@@ -1,0 +1,3 @@
+在非交互式或脱机模型中，管理者一劳永逸地生成某种对象，例如“合成数据库”、统计总结或“清洗后的数据库”。此版本发布后，管理者不再扮演进一步的角色，且原始数据可能会被破坏。
+
+In the non-interactive, or offline, model the curator produces some kind of object, such as a “synthetic database,” collection of summary statistics, or “sanitized database” once and for all. After this release, the curator plays no further role and the original data may be destroyed.
