@@ -1,0 +1,3 @@
+查询是应用于数据库的一种功能。交互式或在线模型允许数据分析人员自适应地请求查询，并根据对先前查询的观察响应来决定接下来要提出哪个查询。
+
+A query is a function to be applied to a database. The interactive, or online, model permits the data analyst to ask queries adaptively, deciding which query to pose next based on the observed responses to previous queries.
