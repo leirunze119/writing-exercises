@@ -1,0 +1,3 @@
+在本文中，我们为扩展差分隐私提出了一种可用于多种度量的机制。我们的机制基于局部敏感哈希和随机响应，并且可以应用于多种度量，包括角距离（余弦）度量、Jaccard度量、Earth Mover度量和𝑙𝑝度量。此外，我们的机制对于在高维空间中的个人数据也适用。
+
+In this paper, we propose a mechanism providing extended DP with a wide range of metrics. Our mechanism is based on locality-sensitive hashing and randomized response and can be applied to a wide variety of metrics including the angular distance (or cosine) metric, Jaccard metric, Earth Mover’s metric, and 𝑙𝑝 metric. Moreover, our mechanism works well for personal data in a high-dimensional space.
