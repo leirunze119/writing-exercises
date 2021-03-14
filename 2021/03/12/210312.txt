@@ -1,0 +1,3 @@
+由于我们的机制的性能受LSH的限制，我们绘制了LSHRR相对于原始LSH的效用损失。向量维数为1000的曲线如图2所示。注意，为了表示简单起见，我们仅将LSHRR与LSH进行比较。接下来，我们将比较LSHRR和LapLSH机制。
+
+We plotted the utility loss of LSHRR against vanilla LSH for various values of 𝑑𝜃 since the performance of our mechanism is bounded by that of LSH; the plot for vector dimension 1000 is shown in Figure 2. Note that we only show comparisons of LSHRR against LSH for simplicity of presentation; we will next compare the LSHRR and LapLSH mechanisms.
