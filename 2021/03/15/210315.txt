@@ -1,0 +1,3 @@
+差分隐私是用于防止统计数据库泄露的著名框架之一。它提供了规范的隐私保证，可确保无法轻易地通过汇总公开的查询结果推断出与个人有关的敏感信息。如果两个数据库是相邻的，即仅针对一个个体是不同的，则该查询不允许将它们区分超过一个确定的因子。这也对两个一般数据库的可区分性产生了限制，这取决于它们在邻接关系的汉明图上的距离。
+
+Differential Privacy is one of the most prominent frameworks used to deal with disclosure prevention in statistical databases. It provides a formal privacy guarantee, ensuring that sensitive information relative to individuals cannot be easily inferred by disclosing answers to aggregate queries. If two databases are adjacent, i.e. differ only for an individual, then the query should not allow to tell them apart by more than a certain factor. This induces a bound also on the distinguishability of two generic databases, which is determined by their distance on the Hamming graph of the adjacency relation.
