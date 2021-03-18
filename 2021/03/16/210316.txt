@@ -1,0 +1,3 @@
+在本文中，当不可区分性要求取决于任意的距离度量时，我们探讨了差分隐私的含义。我们表明，我们可以自然地表达无法用标准概念表示的隐私威胁，从而导致差分隐私框架的新应用。我们根据贝叶斯对抗对这些威胁进行了直观的描述，从文献中概括了对标准差异性隐私的两种解释。
+
+In this paper, we explore the implications of differential privacy when the indistinguishability requirement depends on an arbitrary notion of distance. We show that we can naturally express privacy threats that cannot be represented with the standard notion, leading to new applications of the differential privacy framework. We give intuitive characterizations of these threats in terms of Bayesian adversaries, which generalize two interpretations of standard differential privacy from the literature.
