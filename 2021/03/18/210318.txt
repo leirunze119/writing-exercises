@@ -1,0 +1,3 @@
+当要保护的敏感信息不是单个人的价值时，通常会考虑不同的邻接概念。 例如，在具有高度相关价值的凝聚力群体的情况下，我们可以考虑相邻的两个数据库，在同一群体的任何数量的个体上都不同。类似地，当处理社交网络中的友谊图时，可以将邻接关系定义为在单个边上的差异。
+
+When the sensitive information to be protected is other than the value of a single individual, it is common to consider different notions of adjacency. For example, in cases of cohesive groups with highly correlated values, we could consider adjacent two databases differing in any number of individuals of the same group. Similarly, when dealing with friendship graphs in social networks, adjacency could be defined as differing in a single edge.
