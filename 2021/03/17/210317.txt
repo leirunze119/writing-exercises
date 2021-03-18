@@ -1,0 +1,3 @@
+我们回顾了众所周知的结果，指出普遍最优的机制仅存在于计数查询：我们表明，在扩展的设置中，普遍存在的最佳机制也适用于其他查询，尤其是求和查询，平均值查询和百分位数查询。我们探索了统计数据库以及其他领域的广义定义的各种应用，例如地理位置和智能测量。
+
+We revisit the well-known results stating that universally optimal mechanisms exist only for counting queries: We show that, in our extended setting, universally optimal mechanisms exist for other queries too, notably sum, average, and percentile queries. We explore various applications of the generalized definition, for statistical databases as well as for other areas, such that geolocation and smart metering.
