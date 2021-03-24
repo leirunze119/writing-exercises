@@ -1,0 +1,3 @@
+我们从理论上分析了得到的线性模型，并表明它对应于固定的低通滤波器，并在其后与线性分类器相接。值得注意的是，我们的实验评估表明，这些简化在许多下游应用中不会对准确性产生负面影响。此外，生成的模型可以扩展到更大的数据集，这是自然可以解释的，并且与FastGCN相比，速度提高了两个数量级。
+
+We theoretically analyze the resulting linear model and show that it corresponds to a fixed low-pass filter followed by a linear classifier. Notably, our experimental evaluation demonstrates that these simplifications do not negatively impact accuracy in many downstream applications. Moreover, the resulting model scales to larger datasets is naturally interpretable and yields up to two orders of magnitude speedup over FastGCN.
