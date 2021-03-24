@@ -1,0 +1,3 @@
+图卷积网络（GCN）及其变体受到了极大的关注，并已实际成为学习图表示的方法。GCN的灵感主要来自于最近的深度学习方法，因此可能会继承不必要的复杂性和冗余计算。在本文中，我们通过依次消除非线性并折叠连续层之间的权重矩阵来减少这种过度的复杂性。
+
+Graph Convolutional Networks (GCNs) and their variants have experienced significant attention and have become the de facto methods for learning graph representations. GCNs derive inspiration primarily from recent deep learning approaches, and as a result, may inherit unnecessary complexity and redundant computation. In this paper, we reduce this excess complexity through successively removing nonlinearities and collapsing weight matrices between consecutive layers.
